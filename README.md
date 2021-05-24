@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### I work as an Evangelist in the Open Platform Developer Community 
+
+##### NOW
+- 🌱 Learning all about **Open Source**
+ 
+##### BIO
+- :heart: Open Source Software
