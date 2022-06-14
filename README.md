@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 ##### BIO
 - :heart: Open Source Software
 
+<!--
 ##### 📈 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sleepred)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sleepred)](https://git.io/streak-stats)
+-->
