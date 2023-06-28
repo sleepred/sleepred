@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I work as an Evangelist in the Open Platform Developer Community 
+#### I work as an Evangelist in the Open Platform Developer Community(OPDC) 
 
 ##### NOW
 - 🌱 Learning all about **Open Source**
@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sleepred)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sleepred)](https://git.io/streak-stats)
 -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sleepred)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sleepred)](https://git.io/streak-stats)
